@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'ZonaZCY’s blog',
-  domain: 'https://www.notion.so/Zona-2e56f9b59f5d40a6850cd33b0f9ff376',
+  domain: 'https://verdant-infinity-59b.notion.site/Zona-2e56f9b59f5d40a6850cd33b0f9ff376',
   author: 'ZonaZCY',
 
   // open graph metadata (optional)
